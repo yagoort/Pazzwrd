@@ -1,0 +1,39 @@
+body {
+    background-color: #0F3D3E;
+}
+h1 {
+    color: white; 
+    font-family: "Montserrat", "sans-serif";  
+    font-size: 3rem;  
+    line-height: 1.5;  
+    font-weight: 900;
+}
+h4 {
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+}
+h6 {
+    color: #E2DCC8;
+}
+.bottom { 
+    position: absolute;
+    bottom: 0;
+}
+.contains {
+    font-size: xx-large;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child {
+    position: absolute;
+    top: 25%;
+}
+.fixed {
+    margin-bottom: 10px;
+}
+.hidden {
+    display: none;
+}
+
